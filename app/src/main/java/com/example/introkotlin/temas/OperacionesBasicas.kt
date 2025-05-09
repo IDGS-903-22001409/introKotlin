@@ -25,13 +25,13 @@ fun main(){
             println(" La suma es $num1 + $num2 es $suma")
         }
         if (opcion == 2){
-            println(" La suma es $num1 + $num2 es $resta")
+            println(" La resta es $num1 + $num2 es $resta")
         }
         if (opcion == 3){
-            println(" La suma es $num1 + $num2 es $multiplicacion")
+            println(" La multiplicacion es $num1 + $num2 es $multiplicacion")
         }
         if (opcion == 4){
-            println(" La suma es $num1 + $num2 es $division")
+            println(" La division es $num1 + $num2 es $division")
         }
     }while (opcion != 5)
 

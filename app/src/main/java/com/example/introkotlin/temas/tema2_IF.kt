@@ -10,4 +10,12 @@ fun main (){
     }else {
         println("No debe pagar impuestos")
     }
+
+    val mes = 1
+    when (mes){
+        1 -> println("Enero")
+        2 -> println("Febrero")
+        3 -> println("Marzo")
+        else -> println("Mes no valido")
+    }
 }
