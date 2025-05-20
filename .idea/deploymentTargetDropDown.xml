@@ -2,6 +2,15 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
+      <entry key="CineActivity">
+        <State />
+      </entry>
+      <entry key="MenuActivity">
+        <State />
+      </entry>
+      <entry key="OperasActivity">
+        <State />
+      </entry>
       <entry key="ResultadoActivity">
         <State />
       </entry>
