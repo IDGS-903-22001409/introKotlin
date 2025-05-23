@@ -5,14 +5,38 @@
       <entry key="CineActivity">
         <State />
       </entry>
+      <entry key="Ejemplo3Activity">
+        <State />
+      </entry>
       <entry key="MenuActivity">
         <State />
       </entry>
       <entry key="OperasActivity">
-        <State />
-      </entry>
-      <entry key="ResultadoActivity">
-        <State />
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\checo\.android\avd\Pixel_7_Pro_API_VanillaIceCream.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2025-05-22T23:44:39.121975200Z" />
+          <targetsSelectedWithDialog>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\checo\.android\avd\Pixel_8_Pro_API_TiramisuPrivacySandbox.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetsSelectedWithDialog>
+        </State>
       </entry>
       <entry key="SaludoActivity">
         <State />
